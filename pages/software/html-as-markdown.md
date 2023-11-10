@@ -12,15 +12,12 @@ You can use HTML in Markdown! This allows you to do things like embed videos, or
 You can embed videos using the `<iframe>` or `<embed>` tags. Here is an example:
 
 ```html
-<div style="width: 100%; aspect-ratio: 16 / 9; float: none; clear: both; margin: 2px auto;">
-  <embed
-    src="https://www.youtube.com/embed/11iU9JuaLhc?si=y5HsMpFc7BqoJbGM"
-    wmode="transparent"
-    type="video/mp4"
-    width="100%" height="100%"
-    allow="autoplay; encrypted-media; picture-in-picture"
-    allowfullscreen
-  >
+<div style="width: 80%; aspect-ratio: 16 / 9;">
+	<iframe
+		src="https://www.youtube.com/embed/11iU9JuaLhc"
+		width="100%" height="100%" frameborder="0" allowfullscreen
+		allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	></iframe>
 </div>
 ```
 
@@ -33,6 +30,14 @@ You can embed videos using the `<iframe>` or `<embed>` tags. Here is an example:
     allow="autoplay; encrypted-media; picture-in-picture"
     allowfullscreen
   >
+</div>
+
+<div style="width: 80%; aspect-ratio: 16 / 9;">
+	<iframe
+		src="https://www.youtube.com/embed/11iU9JuaLhc"
+		width="100%" height="100%" frameborder="0" allowfullscreen
+		allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	></iframe>
 </div>
 
 ## Caption for Video
