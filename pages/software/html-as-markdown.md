@@ -12,12 +12,31 @@ You can use HTML in Markdown! This allows you to do things like embed videos, or
 You can embed videos using the `<iframe>` tag. Here is an example:
 
 ```html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ"
-	frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-	allowfullscreen></iframe>
+<div style="width: 560px; height: 315px; float: none; clear: both; margin: 2px auto;">
+  <embed
+    src="https://www.youtube.com/embed/11iU9JuaLhc?si=y5HsMpFc7BqoJbGM"
+    wmode="transparent"
+    type="video/mp4"
+    width="100%" height="100%"
+    allow="autoplay; encrypted-media; picture-in-picture"
+    allowfullscreen
+    title="Keyboard Cat"
+  >
+</div>
+
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="width: 560px; height: 315px; float: none; clear: both; margin: 2px auto;">
+  <embed
+    src="https://www.youtube.com/embed/11iU9JuaLhc?si=y5HsMpFc7BqoJbGM"
+    wmode="transparent"
+    type="video/mp4"
+    width="100%" height="100%"
+    allow="autoplay; encrypted-media; picture-in-picture"
+    allowfullscreen
+    title="Keyboard Cat"
+  >
+</div>
 
 ## Creating Tables
 
@@ -37,8 +56,7 @@ You can create tables using the `<table>` tag. Here is an example:
 			<td>Row 1, Column 2</td>
 		</tr>
 		<tr>
-			<td>Row 2, Column 1</td>
-			<td>Row 2, Column 2</td>
+			<td colspan="2"> Row 2, Span 2</td>
 		</tr>
 	</tbody>
 </table>
@@ -57,8 +75,7 @@ You can create tables using the `<table>` tag. Here is an example:
 			<td>Row 1, Column 2</td>
 		</tr>
 		<tr>
-			<td>Row 2, Column 1</td>
-			<td>Row 2, Column 2</td>
+			<td colspan="2"> Row 2, Span 2</td>
 		</tr>
 	</tbody>
 </table>
