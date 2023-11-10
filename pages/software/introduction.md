@@ -13,4 +13,4 @@ FVTC.Software is a platform for hosting and managing course materials for Fox Va
 
 Markdown is a simple markup language that allows you to write content in plain text and have it converted to HTML.
 
-You can see the source code for this page [here](https://github.com/FVTC/courses/blob/master/pages/software/getting-started.md).
+You can see the source code for this page [here](https://github.com/FVTC/courses/blob/master/pages/software/introduction.md).
