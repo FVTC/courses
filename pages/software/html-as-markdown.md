@@ -53,34 +53,19 @@ You can embed videos using the `<iframe>` or `<embed>` tags. Here is an example:
 
 It's part of our work and personal life.
 
-If you love exploring
-the latest technology,
+If you love exploring the latest technology,
+you can turn that passion into a high paying career.
 
-you can turn that passion
-into a high paying career.
+One of the big things right now is that just our area has
+so many openings for IT, kind of across the board.
 
-One of the big things right now
-
-is that just our area has
-so many openings for IT,
-
-kind of across the board.
-
-Within the next three years,
-
-there's gonna be over 2,600
+Within the next three years, there's gonna be over 2,600
 job openings just in our area.
 
-[Narrator] At Fox Valley Tech,
+[Narrator] At Fox Valley Tech, get the hands on skills you need
+for a great career in Information Technology.
 
-get the hands on skills you need
-
-for a great career in
-Information Technology.
-
-You'll be the problem solver
-
-who keeps things moving forward.
+You'll be the problem solver who keeps things moving forward.
 
 To find out how, visit fvtc.edu.</pre></div>
 
