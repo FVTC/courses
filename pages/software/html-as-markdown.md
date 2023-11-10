@@ -67,7 +67,8 @@ for a great career in Information Technology.
 
 You'll be the problem solver who keeps things moving forward.
 
-To find out how, visit fvtc.edu.</pre></div>
+To find out how, visit fvtc.edu.
+</pre></div>
 
 ## Creating Tables
 
