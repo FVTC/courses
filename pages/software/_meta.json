@@ -1,6 +1,7 @@
 {
 	"title": "FVTC Software Content Generation",
 	"units": [
+		"Introduction",
 		"Getting Started",
 		"HTML as Markdown",
 		"Course Meta-Data",
