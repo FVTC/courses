@@ -35,20 +35,10 @@ You can embed videos using the `<iframe>` or `<embed>` tags. Here is an example:
   >
 </div>
 
-## Subtitle For Video
+## Caption for Video
 
-<style>
-	#subtitle {
-		display: none;
-	}
-	#toggle-subtitle:checked ~ #subtitle {
-		display: block;
-	}
-</style>
-<input type="checkbox" id="toggle-subtitle">
-<label for="toggle-subtitle" data-show-label="show" data-hide-label="hide">Show/Hide Subtitle</label>
-
-<div id="subtitle" class="subtitle"><pre>
+<details>
+<summary>Show captions</summary>
 [Narrator] Technology is all around us.
 
 It's part of our work and personal life.
@@ -68,7 +58,7 @@ for a great career in Information Technology.
 You'll be the problem solver who keeps things moving forward.
 
 To find out how, visit fvtc.edu.
-</pre></div>
+</details>
 
 ## Creating Tables
 
