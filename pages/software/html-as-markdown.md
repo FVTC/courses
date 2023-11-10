@@ -45,7 +45,7 @@ Within the next three years, there's going to be over 2,600 job openings just in
 You'll be the problem solver who keeps things moving forward.
 To find out how, visit fvtc.edu.
 
-<pre>
+</pre>
 </details>
 
 ## Creating Tables
