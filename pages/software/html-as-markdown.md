@@ -21,6 +21,8 @@ You can embed videos using the `<iframe>` or `<embed>` tags. Here is an example:
 </div>
 ```
 
+Will produce this:
+
 <div style="width: 80%; aspect-ratio: 16 / 9;">
 	<iframe
 		src="https://www.youtube.com/embed/11iU9JuaLhc"
@@ -29,7 +31,20 @@ You can embed videos using the `<iframe>` or `<embed>` tags. Here is an example:
 	></iframe>
 </div>
 
-## Caption for Video
+## Details and Summary
+
+You can use the `<details>` and `<summary>` tags to create expandable sections. Here is an example:
+
+```html
+<details>
+<summary>Show captions</summary>
+<pre>
+	Write your captions here!
+</pre>
+</details>
+```
+
+Will produce this:
 
 <details>
 <summary>Show captions</summary>
@@ -66,6 +81,8 @@ You can create tables using the `<table>` tag. Here is an example:
 	</tbody>
 </table>
 ```
+
+Which will produce:
 
 <table>
 	<thead>
