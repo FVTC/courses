@@ -9,7 +9,7 @@ You can use HTML in Markdown! This allows you to do things like embed videos, or
 
 ## Embedding Videos
 
-You can embed videos using the `<iframe>` or `embed` tags. Here is an example:
+You can embed videos using the `<iframe>` or `<embed>` tags. Here is an example:
 
 ```html
 <div style="width: 100%; aspect-ratio: 16 / 9; float: none; clear: both; margin: 2px auto;">
@@ -34,6 +34,47 @@ You can embed videos using the `<iframe>` or `embed` tags. Here is an example:
     allowfullscreen
   >
 </div>
+
+## Subtitle For Video
+
+<div><pre>
+
+[Narrator] Technology is all around us.
+
+It's part of our work and personal life.
+
+If you love exploring
+the latest technology,
+
+you can turn that passion
+into a high paying career.
+
+One of the big things right now
+
+is that just our area has
+so many openings for IT,
+
+kind of across the board.
+
+Within the next three years,
+
+there's gonna be over 2,600
+job openings just in our area.
+
+[Narrator] At Fox Valley Tech,
+
+get the hands on skills you need
+
+for a great career in
+Information Technology.
+
+You'll be the problem solver
+
+who keeps things moving forward.
+
+To find out how, visit fvtc.edu.
+
+</pre></div>
 
 ## Creating Tables
 
