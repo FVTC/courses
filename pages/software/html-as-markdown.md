@@ -42,7 +42,8 @@ You can use the `<details>` and `<summary>` tags to create expandable sections. 
 [Narrator] Technology is all around us. It's part of our work and personal life.
 If you love exploring the latest technology, you can turn that passion into a high paying career.
 
-[Instructor] One of the big things right now is that, just our area has so many openings for IT, kind of across the board.
+[Instructor] One of the big things right now is that, just our area has so many openings for IT,
+kind of across the board.
 Within the next three years, there's going to be over 2,600 job openings just in our area.
 
 [Narrator] At Fox Valley Tech, get the hands on skills you need for a great career in Information Technology.
@@ -61,7 +62,8 @@ Will produce this:
 [Narrator] Technology is all around us. It's part of our work and personal life.
 If you love exploring the latest technology, you can turn that passion into a high paying career.
 
-[Instructor] One of the big things right now is that, just our area has so many openings for IT, kind of across the board.
+[Instructor] One of the big things right now is that, just our area has so many openings for IT,
+kind of across the board.
 Within the next three years, there's going to be over 2,600 job openings just in our area.
 
 [Narrator] At Fox Valley Tech, get the hands on skills you need for a great career in Information Technology.
