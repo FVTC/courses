@@ -23,18 +23,12 @@ You can embed videos using the `<iframe>` tag. Here is an example:
     title="Keyboard Cat"
   >
 </div>
-
 ```
 
 <div style="width: 560px; height: 315px; float: none; clear: both; margin: 2px auto;">
   <embed
     src="https://www.youtube.com/embed/11iU9JuaLhc?si=y5HsMpFc7BqoJbGM"
-    wmode="transparent"
-    type="video/mp4"
-    width="100%" height="100%"
-    allow="autoplay; encrypted-media; picture-in-picture"
-    allowfullscreen
-    title="Keyboard Cat"
+
   >
 </div>
 
@@ -56,7 +50,7 @@ You can create tables using the `<table>` tag. Here is an example:
 			<td>Row 1, Column 2</td>
 		</tr>
 		<tr>
-			<td colspan="2"> Row 2, Span 2</td>
+			<td colspan="2">Row 2, Span 2</td>
 		</tr>
 	</tbody>
 </table>
@@ -75,7 +69,7 @@ You can create tables using the `<table>` tag. Here is an example:
 			<td>Row 1, Column 2</td>
 		</tr>
 		<tr>
-			<td colspan="2"> Row 2, Span 2</td>
+			<td colspan="2">Row 2, Column Span 2</td>
 		</tr>
 	</tbody>
 </table>
