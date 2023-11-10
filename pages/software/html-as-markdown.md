@@ -37,7 +37,10 @@ You can embed videos using the `<iframe>` or `<embed>` tags. Here is an example:
 
 ## Subtitle For Video
 
-<div><pre>
+<input type="checkbox" id="toggle-subtitle">
+<label for="toggle-subtitle" data-show-label="show" data-hide-label="hide">
+
+<div id="subtitle"><pre>
 
 [Narrator] Technology is all around us.
 
