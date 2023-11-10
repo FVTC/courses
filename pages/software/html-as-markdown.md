@@ -12,7 +12,7 @@ You can use HTML in Markdown! This allows you to do things like embed videos, or
 You can embed videos using the `<iframe>` tag. Here is an example:
 
 ```html
-<div style="width: 560px; height: 315px; float: none; clear: both; margin: 2px auto;">
+<div style="width: 100%; aspect-ratio: 16 / 9; float: none; clear: both; margin: 2px auto;">
   <embed
     src="https://www.youtube.com/embed/11iU9JuaLhc?si=y5HsMpFc7BqoJbGM"
     wmode="transparent"
@@ -20,15 +20,18 @@ You can embed videos using the `<iframe>` tag. Here is an example:
     width="100%" height="100%"
     allow="autoplay; encrypted-media; picture-in-picture"
     allowfullscreen
-    title="Keyboard Cat"
   >
 </div>
 ```
 
-<div style="width: 560px; height: 315px; float: none; clear: both; margin: 2px auto;">
+<div style="width: 100%; aspect-ratio: 16 / 9; float: none; clear: both; margin: 2px auto;">
   <embed
     src="https://www.youtube.com/embed/11iU9JuaLhc?si=y5HsMpFc7BqoJbGM"
-
+    wmode="transparent"
+    type="video/mp4"
+    width="100%" height="100%"
+    allow="autoplay; encrypted-media; picture-in-picture"
+    allowfullscreen
   >
 </div>
 
