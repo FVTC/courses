@@ -25,3 +25,19 @@ To create a new page, click the "Create new file" button in the file list. ![Cre
 
 You can now enter the name of the file and its contents. When you are done, scroll down to the bottom of the page and click the "Commit new file" button. ![Commit Button](https://raw.githubusercontent.com/FVTC/fvtc.software/master/docs/assets/images/commit.png)
 
+# Stuff for later
+
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
