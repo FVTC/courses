@@ -5,19 +5,21 @@ course: 'FVTC Software Documentation'
 
 # Getting Started
 
-To use FVTC.Software, you will need to create a [GitHub](https://github.com) account. You can do so by visiting [github.com/join](github.com/join).
+To use FVTC.Software, you will need a [GitHub](https://github.com) account. You can create on free by visiting [github.com/join](github.com/join).
 
-After creating your account, fork the [Tutorial Repository](https://github.com/fvtc/tutorials) by clicking the "Fork" button in the top right corner of the page. ![Fork Button](https://raw.githubusercontent.com/FVTC/fvtc.software/master/docs/assets/images/fork.png)
+After logging in, fork the [Tutorial Repository](https://github.com/fvtc/tutorials) by clicking the "Fork" button in the top right corner of the page.
+
+![Fork Button](https://docs.github.com/assets/cb-40742/mw-1440/images/help/repository/fork-button.webp)
+
+On the next screen, you can rename the repository if you want. Or, just use the default `courses`.
 
 This will create a copy of the repository in your account. You can now edit the files in the repository and commit your changes.
 
 # Editing Files
 
-To edit a file, click on it in the file list. ![File List](https://raw.githubusercontent.com/FVTC/fvtc.software/master/docs/assets/images/file-list.png)
+You can edit files right inside of github. To do so, navigate to the page that you would like to edit and click on the "Edit" button.
 
-You can now edit the file by clicking the pencil icon in the top right corner of the file viewer. ![Edit Button](https://raw.githubusercontent.com/FVTC/fvtc.software/master/docs/assets/images/edit.png)
-
-After making your changes, scroll down to the bottom of the page and click the "Commit Changes" button. ![Commit Button](https://raw.githubusercontent.com/FVTC/fvtc.software/master/docs/assets/images/commit.png)
+![Edit Button](https://docs.github.com/assets/cb-47677/mw-1440/images/help/repository/edit-file-edit-button.webp)
 
 # Creating Pages
 

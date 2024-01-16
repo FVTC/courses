@@ -1,7 +1,10 @@
 
 # FVTC Software Content Generation
 
-[Introduction](/introduction)
+[Introduction](software/introduction)
+
 [Getting Started](software/getting-started)
-[HTML as Markdown](/software/html-as-markdown)
-[Front Matter](/fvtc/software/frontmatter)
+
+[HTML as Markdown](software/html-as-markdown)
+
+[Front Matter](software/frontmatter)
