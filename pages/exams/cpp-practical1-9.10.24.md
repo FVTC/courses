@@ -1,6 +1,7 @@
 ---
 title: Exam 1 - Practical
 subtitle: Computer Programming C++
+hide-nav: true
 ---
 
 # Exam 1 - Practical
