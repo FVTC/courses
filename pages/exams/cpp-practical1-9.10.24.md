@@ -10,6 +10,8 @@ For this exam you will write a program that will perform some basic arithmetic o
 
 Example output:
 
+<div class="no-copy">
+
 ```plaintext
 Enter the first number: 10
 Enter the second number: 5
@@ -17,6 +19,10 @@ Choose an operation (1 for addition, 2 for subtraction): 1
 
 The result of 10 + 5 is 15
 ```
+
+</div>
+
+<div class="no-copy">
 
 If the user chooses an invalid operation, the program should prompt the user again.
 
@@ -30,6 +36,8 @@ Choose an operation (1 for addition, 2 for subtraction): 2
 
 The result of 10 - 5 is 5
 ```
+
+</div>
 
 Your program should contain the following functions:
 
