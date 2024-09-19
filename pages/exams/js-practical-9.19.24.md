@@ -45,6 +45,4 @@ Your task is to add the following functionality to the page by modifying the `si
 
 # Submission
 
-For submission, you will upload your HTML file (with the embedded JavaScript) to Blackboard.
-
-> [!NOTE] Blackboard may not allow you to upload a .html file. If this is the case, you can rename it to index.txt before uploading.
+For submission, zip (compress) the folder containing your project and submit it to Blackboard. Do not push your code to GitHub!
