@@ -9,7 +9,18 @@ hide-sidebar: true
 
 For this exam you will write a program that will perform some basic arithmetic operations. The program will read two numbers from the user and then perform either addition or subtraction on the two numbers. The user will be able to choose which operation to perform. The program will then display the result of the operation.
 
-Example output:
+<details open style="display:none;">
+	<summary class="video">Show/Hide Video</summary>
+	<div class="video-container">
+		<iframe src="https://www.youtube.com/embed/" width="100%" height="100%" frameborder="0"
+			allowfullscreen allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture">
+		</iframe>
+	</div>
+</details>
+
+## Example Output
+
+The program should display something similar to the following:
 
 <div class="no-copy">
 
@@ -39,6 +50,8 @@ The result of 10 - 5 is 5
 ```
 
 </div>
+
+## Instructions
 
 Your program should contain the following functions:
 
