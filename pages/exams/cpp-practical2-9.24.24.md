@@ -71,7 +71,7 @@ Bob is 30 years old.
 
 2. Make sure to use proper naming conventions for classes, pointers, member variables, etc...
 
-> [!IMPORTANT] You can use notes, old code, Google, etc... to help you with this exam. Just make sure that you are creating the code yourself, and not copying and pasting from another source (AI or otherwise).
+> [!IMPORTANT] You can use notes, old code, Google, etc... to help you with this exam. Just make sure that you are creating the code yourself, and not copying and pasting from another source (AI or otherwise). This includes Copilot, StackOverflow, etc...
 
 # Submission
 
