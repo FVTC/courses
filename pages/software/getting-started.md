@@ -1,6 +1,9 @@
 ---
-title: 'Getting Started'
-course: 'FVTC Software Documentation'
+title: Getting Started
+subtitle: FVTC Software Documentation
+hide-nav: false
+
+live: https://fvtc.software/fvtc/software/getting-started
 ---
 
 # Getting Started

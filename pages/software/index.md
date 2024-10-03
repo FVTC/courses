@@ -1,3 +1,10 @@
+---
+title: FVTC Software Documentation
+subtitle: FVTC Software
+hide-nav: true
+
+live: https://fvtc.software/fvtc/software
+---
 
 # FVTC Software Content Generation
 

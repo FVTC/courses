@@ -1,6 +1,9 @@
 ---
-title: 'HTML as Markdown'
-course: 'FVTC Software Documentation'
+title: HTML as Markdown
+subtitle: FVTC Software Documentation
+hide-nav: false
+
+live: https://fvtc.software/fvtc/software/html-as-markdown
 ---
 
 # You can use HTML in Markdown!

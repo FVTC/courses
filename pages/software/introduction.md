@@ -1,6 +1,9 @@
 ---
-title: 'Introduction'
-course: 'FVTC Software Documentation'
+title: Introduction
+subtitle: FVTC Software Documentation
+hide-nav: false
+
+live: https://fvtc.software/fvtc/software/introduction
 ---
 
 # What is FVTC.Software?

@@ -3,6 +3,8 @@ title: Exam 1 - Practical
 subtitle: Modern JavaScript
 hide-nav: true
 hide-sidebar: true
+
+live: https://fvtc.software/fvtc/exams/js-practical-9.19.24
 ---
 
 # Exam 1 - Practical
