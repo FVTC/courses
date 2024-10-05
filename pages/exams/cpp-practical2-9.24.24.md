@@ -55,7 +55,7 @@ Bob is 30 years old.
    - A default constructor that initializes the name to "Unknown" and the age to 0.
    - A constructor that takes a name and age as parameters and sets the name and age of the person.
 
-> [!NOTE] You can create a `Person.cpp` file if you want, but it is not required. Additionally, you can create mutator methods for the name and age if you want, again it is not required.
+> [!NOTE] You can create a `Person.cpp` file if you want, but it is not required. Additionally, you can create accessor methods for the name and age if you want, again it is not required.
 
 ### Main Function Requirements
 
