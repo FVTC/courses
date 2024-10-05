@@ -20,6 +20,8 @@ For this exam you will write a program that will utilize classes. The program wi
 	</div>
 </details>
 
+init
+
 ## Example Output
 
 <div class="no-copy">
