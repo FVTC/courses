@@ -44,7 +44,16 @@ Make sure to replace `<your-username>` with your GitHub username. This will clon
 
 Your task is to add the quiz functionality to the page by modifying the `site.js` file. You will need to add the following:
 
-1. Inside of the IIFE, create an arrow function called `getNextQuestion` that will get the data from the OpenTDB API and parse the JSON response. (10 points):
+1. Inside of the IIFE, create an arrow function called `getNextQuestion` that will get the data from the OpenTDB API and parse the JSON response. (10 points)
+
+<details open>
+	<summary class="video">Show/Hide Video</summary>
+	<div class="video-container">
+		<iframe src="https://www.youtube.com/embed/" width="100%" height="100%" frameborder="0"
+			allowfullscreen allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture">
+		</iframe>
+	</div>
+</details>
 
 - Fetch a new question from the OpenTDB API using the URL provided above.
 - Parse the JSON response into a variable called `json`.
@@ -60,7 +69,16 @@ return { question, answers, correct }
 
 > [!NOTE] The `shuffle` function is already provided by the `import` statement at the top of the `site.js` file.
 
-2. Inside of the IIFE, create an arrow function called `renderQuestion` that will display the question on the page. The input will be the question object returned from the `getNextQuestion` function. (10 points):
+2. Inside of the IIFE, create an arrow function called `renderQuestion` that will display the question on the page. The input will be the question object returned from the `getNextQuestion` function. (10 points)
+
+<details open>
+	<summary class="video">Show/Hide Video</summary>
+	<div class="video-container">
+		<iframe src="https://www.youtube.com/embed/" width="100%" height="100%" frameborder="0"
+			allowfullscreen allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture">
+		</iframe>
+	</div>
+</details>
 
 - Destructure the `question`, `answers`, and `correct` properties from the input object. You can do this right in the parameter list of the function. For example:
 
@@ -87,6 +105,15 @@ alert('Incorrect!')
 ```
 
 3. Inside of the IIFE, create a `click` event listener for the `nextQuestionElement` button. This will call the `getNextQuestion` function and then the `renderQuestion` function. (5 points)
+
+<details open>
+	<summary class="video">Show/Hide Video</summary>
+	<div class="video-container">
+		<iframe src="https://www.youtube.com/embed/" width="100%" height="100%" frameborder="0"
+			allowfullscreen allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture">
+		</iframe>
+	</div>
+</details>
 
 - You can use this code inside of the event listener:
 
