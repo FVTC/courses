@@ -50,49 +50,49 @@ Your task is to add the quiz functionality to the page by modifying the `site.js
    - Parse the JSON response into a variable called `json`.
    - Use the following code to extract the question, correct answer, and incorrect answers from the JSON response:
 
-	 ```javascript
-	const { question, correct_answer: correct, incorrect_answers: incorrect } = json.results[0]
-	const answers = shuffle([ ...incorrect, correct ])
-	return { question, answers, correct }
-	 ```
+```javascript
+const { question, correct_answer: correct, incorrect_answers: incorrect } = json.results[0]
+const answers = shuffle([ ...incorrect, correct ])
+return { question, answers, correct }
+```
 
-	> [!NOTE] The `shuffle` function is already provided by the `import` statement at the top of the `site.js` file.
+> [!NOTE] The `shuffle` function is already provided by the `import` statement at the top of the `site.js` file.
 
 2. Inside of the IIFE, create an arrow function called `renderQuestion` that will display the question on the page. The input will be the question object returned from the `getNextQuestion` function. (10 points):
 
    - Destructure the `question`, `answers`, and `correct` properties from the input object. You can do this right in the parameter list of the function. For example:
 
-	 ```javascript
-	const renderQuestion = ({ question, answers, correct }) => { }
-	 ```
+```javascript
+const renderQuestion = ({ question, answers, correct }) => { }
+```
 
 	- Display the question on the page. The `questionElement` variable is already available.
 
-	> [!TIP] Use the `decodeHtml` function (provided by the `import` statement) to decode the HTML entities in the question. For example: `questionElement.textContent = decodeHtml(question)`. This will convert HTML entities like `&quot;` to their respective characters.
+> [!NOTE] Use the `decodeHtml` function (provided by the `import` statement) to decode the HTML entities in the question. For example: `questionElement.textContent = decodeHtml(question)`. This will convert HTML entities like `&quot;` to their respective characters.
 
 	- Display the answers on the page. The `answersElement` variable is already available. You will want to clear out any elements from the previous question before displaying the new answers, by setting the `innerHTML` property to an empty string. Then, use a `forEach` loop to create a new `button` element for each answer. Set the `textContent` of the button to the answer. Add a `click` event listener to the button that uses an anonymous function to check if the answer is correct. Inside the anonymous function, use the following code:
 
-	```javascript
-	if (answer === correct) {
-		button.classList.add('correct')
-		answersElement.querySelectorAll('button').forEach(b => b.disabled = true)
-		alert('Correct!')
-		return
-	}
+```javascript
+if (answer === correct) {
+	button.classList.add('correct')
+	answersElement.querySelectorAll('button').forEach(b => b.disabled = true)
+	alert('Correct!')
+	return
+}
 
-	button.disabled = true
-	alert('Incorrect!')
-	 ```
+button.disabled = true
+alert('Incorrect!')
+```
 
 3. Inside of the IIFE, create a `click` event listener for the `nextQuestionElement` button. This will call the `getNextQuestion` function and then the `renderQuestion` function. (5 points)
 
 	- You can use this code inside of the event listener:
 
-	  ```javascript
-	renderQuestion(await getNextQuestion())
-	nextQuestionElement.disabled = true
-	setTimeout(() => nextQuestionElement.disabled = false, 10000)
-	  ```
+```javascript
+renderQuestion(await getNextQuestion())
+nextQuestionElement.disabled = true
+setTimeout(() => nextQuestionElement.disabled = false, 10000)
+```
 
 > [!NOTE] The api doesn't like having too many requests in a short amount of time. That's why we're disabling the button for 10 seconds after each new question is requested.
 
