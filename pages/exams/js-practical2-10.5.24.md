@@ -98,19 +98,6 @@ setTimeout(() => nextQuestionElement.disabled = false, 10000)
 
 > [!NOTE] The api doesn't like having too many requests in a short amount of time. That's why we're disabling the button for 10 seconds after each new question is requested.
 
-## Demonstration Video
-
-Here is a video that demonstrates the functionality of the quiz:
-
-<details open>
-	<summary class="video">Show/Hide Video</summary>
-	<div class="video-container">
-		<iframe src="https://www.youtube.com/embed/" width="100%" height="100%" frameborder="0"
-			allowfullscreen allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture">
-		</iframe>
-	</div>
-</details>
-
 # Submission
 
 For submission, push your canges to your forked repository and submit the link to Blackboard. Remember, your project is already a Git repository, so you can use the following commands to push your changes:
