@@ -45,7 +45,7 @@ Bob has a GPA of 2.8.
 
 2. Your class should have the following private members:
    - `m_name` - a string to hold the name of the student
-   - `m_gpa` - an integer to hold the gpa of the student
+   - `m_gpa` - a number to hold the gpa of the student
 
 3. Your class should have mutator methods to set the name and gpa of the student.
 
