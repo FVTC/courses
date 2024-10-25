@@ -65,8 +65,8 @@ The perimeter of this Shape is 12
 
 
 Please enter the radius of the circle: 2
-The area of this Circle is 12.5664
-The perimeter of this Circle is 12.5664
+The area of this Circle is 12.5664			// Note that these lines say "Circle", not "Shape".
+The perimeter of this Circle is 12.5664		// Again, "Circle" instead of "Shape".
 ```
 
 > [!NOTE] The 3-4-5 triangle is a special triangle that has an area of 6 and a perimeter of 12. Using different side lengths will result in different area and perimeter values. Similarly, a circle with a radius of 2 will have an area and perimeter of 12.5664.
