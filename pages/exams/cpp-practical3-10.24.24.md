@@ -9,7 +9,7 @@ repository: https://github.com/fvtc/cpp-shape
 
 # Exam 3 - Practical
 
-For this exam you will finish a program that will utilize inheritance and abstract classes. The source code for the program is located in the [cpp-shape](https://githbu.com/fvtc/cpp-shape) repository. You will need to clone the repository to your local machine and complete the program.
+For this exam you will finish a program that will utilize inheritance and abstract classes. The source code for the program is located in the [cpp-shape](https://github.com/fvtc/cpp-shape) repository. You will need to clone the repository to your local machine and complete the program.
 
 <details open>
 	<summary class="video">Show/Hide Video</summary>
