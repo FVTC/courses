@@ -4,6 +4,7 @@ subtitle: FVTC Software Documentation
 hide-nav: false
 
 live: https://fvtc.software/fvtc/software/getting-started
+repository: https://github.com/fvtc/courses
 ---
 
 # Getting Started

@@ -4,6 +4,7 @@ subtitle: FVTC Software Documentation
 hide-nav: false
 
 live: https://fvtc.software/fvtc/software/introduction
+repository: https://github.com/fvtc/courses
 ---
 
 # What is FVTC.Software?

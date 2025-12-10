@@ -4,6 +4,7 @@ subtitle: FVTC Software
 hide-nav: true
 
 live: https://fvtc.software/fvtc/software
+repository: https://github.com/fvtc/courses
 ---
 
 # FVTC Software Content Generation

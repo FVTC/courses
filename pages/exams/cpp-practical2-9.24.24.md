@@ -2,9 +2,9 @@
 title: Exam 2 - Practical
 subtitle: Computer Programming C++
 hide-nav: true
-hide-sidebar: true
 
 live: https://fvtc.software/fvtc/exams/cpp-practical2-9.24.24
+repository: https://github.com/fvtc/courses
 ---
 
 # Exam 2 - Practical

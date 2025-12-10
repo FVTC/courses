@@ -1,10 +1,10 @@
 ---
 title: Exam 3 - Practical
 subtitle: Computer Programming C++
-hideNav: false
+hideNav: true
 
 live: https://fvtc.software/fvtc/exams/cpp-practical3-10.24.24
-repository: https://github.com/fvtc/cpp-shape
+repository: https://github.com/fvtc/courses
 ---
 
 # Exam 3 - Practical

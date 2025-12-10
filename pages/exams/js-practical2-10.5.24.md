@@ -2,9 +2,9 @@
 title: Exam 2 - Practical
 subtitle: Modern JavaScript
 hide-nav: true
-hide-sidebar: true
 
 live: https://fvtc.software/fvtc/exams/js-practical2-10.5.24
+repository: https://github.com/fvtc/courses
 ---
 
 # Exam 2 - Practical

@@ -2,9 +2,9 @@
 title: Exam 1 - Practical
 subtitle: Computer Programming C++
 hide-nav: true
-hide-sidebar: true
 
 live: https://fvtc.software/fvtc/exams/cpp-practical1-9.10.24
+repository: https://github.com/fvtc/courses
 ---
 
 # Exam 1 - Practical

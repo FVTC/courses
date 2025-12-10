@@ -4,6 +4,7 @@ subtitle: FVTC Software Documentation
 hide-nav: false
 
 live: https://fvtc.software/fvtc/software/html-as-markdown
+repository: https://github.com/fvtc/courses
 ---
 
 # You can use HTML in Markdown!

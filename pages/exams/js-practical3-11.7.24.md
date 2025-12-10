@@ -2,10 +2,9 @@
 title: Exam 3 - Practical
 subtitle: Modern JavaScript
 hide-nav: true
-hide-sidebar: true
 
 live: https://fvtc.software/fvtc/exams/js-practical3-10.5.24
-repository: https://github.com/fvtc/js-my-recipes
+repository: https://github.com/fvtc/courses
 ---
 
 # Exam 3 - Practical
