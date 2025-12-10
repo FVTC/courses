@@ -1,7 +1,7 @@
 ---
 title: Exam 3 - Practical
 subtitle: C# Intermediate Programming
-hideNav: false
+hide-nav: true
 
 live: https://fvtc.software/fvtc/exams/cs-inter-practical3-12.10.25
 repository: https://github.com/fvtc/courses
