@@ -1,9 +1,9 @@
 ---
 title: Exam 1 - Practical
-subtitle: Computer Programming C++
+subtitle: Advanced JavaScript
 hide-nav: true
 
-live: https://fvtc.software/fvtc/exams/cpp-practical1-9.10.24
+live: https://fvtc.software/fvtc/exams/ajs-practical1-1.12.26
 repository: https://github.com/fvtc/courses
 ---
 
