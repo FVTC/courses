@@ -1,7 +1,7 @@
 ---
 title: Exam 1 - Practical
 subtitle: Advanced JavaScript
-hide-nav: true
+hide-nav: false
 
 live: https://fvtc.software/fvtc/exams/ajs-practical1-1.12.26
 repository: https://github.com/fvtc/courses
@@ -15,7 +15,7 @@ For this exam you will write a React component that limits and displays textarea
 
 For exam instructions, please watch the following video. If you need written instructions, please contact your instructor.
 
-<details open style="display: none;">
+<details open style="display:none;">
 	<summary class="video">Show/Hide Video</summary>
 	<div class="video-container">
 		<iframe src="https://www.youtube.com/embed/J52Nq7uaTDU" width="100%" height="100%" frameborder="0"
