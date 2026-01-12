@@ -24,7 +24,7 @@ For exam instructions, please watch the following video. If you need written ins
 	</div>
 </details>
 
-1. Fork and Clone down the starter code from `https://github.com/FVTC/ajs-limited-textarea`.
+1. Fork and Clone down the starter code from `https://github.com/fvtc/ajs-limited-textarea`.
 
 > [IMORTANT] Make sure to clone down your fork, and not the FVTC owned repo! If you clone the wrong one, you won't be able to push it up.
 
