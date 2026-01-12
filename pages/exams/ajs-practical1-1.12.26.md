@@ -26,7 +26,7 @@ For exam instructions, please watch the following video. If you need written ins
 
 1. Fork and Clone down the starter code from `https://github.com/fvtc/ajs-limited-textarea`.
 
-> [IMPORTANT] Make sure to clone down your fork, and not the FVTC owned repo! If you clone the wrong one, you won't be able to push it up.
+> [!IMPORTANT] Make sure to clone down your fork, and not the FVTC owned repo! If you clone the wrong one, you won't be able to push it up.
 
 2. Complete the `LimitedTextarea` component as outlined in the video.
 
