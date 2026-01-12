@@ -15,8 +15,8 @@ For this exam you will write a React component that limits and displays textarea
 
 For exam instructions, please watch the following video. If you need written instructions, please contact your instructor.
 
+<summary class="video">Show/Hide Video</summary>
 <details open style="display: none;">
-	<summary class="video">Show/Hide Video</summary>
 	<div class="video-container">
 		<iframe src="https://www.youtube.com/embed/J52Nq7uaTDU" width="100%" height="100%" frameborder="0"
 			allowfullscreen allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture">
