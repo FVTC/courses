@@ -48,7 +48,7 @@ const pStyle = {
 }
 ```
 
-## Submission
+# Submission
 
 1. Push up your changes to your forked repository on GitHub.
 2. Submit the URL to your forked repository to Blackboard.
