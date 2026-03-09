@@ -3,7 +3,7 @@ title: Exam 1 - Practical
 subtitle: Advanced JavaScript
 hide-nav: true
 
-live: https://fvtc.software/fvtc/exams/ajs-practical1-1.12.26
+live: https://fvtc.software/fvtc/exams/ajs-practical2-3.9.26
 repository: https://github.com/fvtc/courses
 ---
 
